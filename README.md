@@ -1,7 +1,7 @@
 # Instructions to start
 
 This is the front-end of Jobly application that is to be used with jobly-backend-Unit-43
-First Run server from instructions to run on local machine -- it will run on port 3001
+First Run server from jobly-backend (nodemon server) to run on local machine -- it will run on port 3001.
 Then run react app -- this runs on port 3000 locally
 
 ### `npm install`
