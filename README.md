@@ -1,7 +1,12 @@
-# Instructions to start
+A working demo can be found here:
+[working jobly demo] (https://godly-basket.surge.sh/jobs)
+
+# Instructions to start locally
 
 This is the front-end of Jobly application that is to be used with jobly-backend-Unit-43.
 First -- Run server from jobly-backend (nodemon server) to run on local machine -- it will run on port 3001.
+
+Next to run locally
 
 ### `npm install`
 
