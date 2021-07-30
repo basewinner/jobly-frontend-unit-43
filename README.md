@@ -1,5 +1,9 @@
 A working demo can be found here:
-[working jobly demo] (https://godly-basket.surge.sh/jobs)
+
+[working jobly demo](https://godly-basket.surge.sh/jobs)
+
+login: demo
+pswd: demo123
 
 # Instructions to start locally
 
