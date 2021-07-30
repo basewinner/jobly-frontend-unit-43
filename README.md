@@ -1,6 +1,6 @@
 A working demo can be found here:
 
-[working jobly demo](https://godly-basket.surge.sh/jobs)
+[working jobly demo](https://godly-basket.surge.sh)
 
 login: demo
 pswd: demo123
