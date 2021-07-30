@@ -1,0 +1,19 @@
+.Navigation {
+  background-color: darkslateblue;
+  color: silver;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.125);
+}
+
+.nav-link.active {
+  font-weight: bold;
+  color: black;
+}
+
+.nav-link {
+  font-weight: bold;
+  color: silver;
+}
+
+a {
+  color: silver;
+}
