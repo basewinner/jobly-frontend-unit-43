@@ -8,9 +8,12 @@ pswd: demo123
 # Instructions to start locally
 
 This is the front-end of Jobly application that is to be used with jobly-backend-Unit-43.
+
+To run locally
+
 First -- Run server from jobly-backend (nodemon server) to run on local machine -- it will run on port 3001.
 
-Next to run locally
+Next
 
 ### `npm install`
 
